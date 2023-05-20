@@ -1,0 +1,181 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Rexus Thunderfox",
+      "slug":"rex-thunderfox",
+      "description" : "Rexus Thundervox HX9 Gaming Headset comes with a modern design, shaped ergonomically and equipped with stylish RGB LED accents. This headset has detailed characteristics, extensive staging, and comes with a sensitive microphone. Using this stylish gaming headset will uplift your gaming spirit to the max!",
+      "price" :"250000",
+      "mainImg": "https://rexus.id/wp-content/uploads/2021/02/HX9_White.png",
+      "categoryId":"1",
+      "authorId":"1"
+    },
+    {
+      "id": 2,
+      "name": "Rexus Vonix",
+      "slug":"rex-vonix",
+      "description" : "is professional gaming headset which is designed ergonomically with adjustable size and telescopic headband and 40mm diameter speaker which produces wider frequency response and transparent bass. The earpad makes it comfortable to wear while also acting as passive noise reduction. It then completed with 2 meter of high quality cable.",
+      "price" :"280000",
+      "mainImg": "https://rexus.id/wp-content/uploads/2020/02/Thumbnail.png",
+      "categoryId":"1",
+      "authorId":"1"
+    },
+    {
+      "id": 3,
+      "name": "Rexus Legionare MX9P",
+      "slug":"rex-legion",
+      "description" : "Rexus Gaming Keyboard Legionare MX9 Pudding Version is the new look of the Legionare MX9 mechanical keyboard. The use of “pudding” type keycaps will display a more slick RGB LED game on each key. The LED light will glow uniquely thanks to the jelly-like transparent walls of the keycaps.As a core component, the Legionare MX9 Pudding Version Keyboard still uses Outemu’s proven mechanical switches. There are 2 choices of switch types (Red, Blue) that can be adjusted to your type of game.Not only prioritizing appearance, the Legionare MX9 Pudding Version Keyboard is still worthy for you to use to compete!",
+      "price" :"350000",
+      "mainImg": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBQTFBUUFBMXFBcXGxUaGhcbEx0bGxcXGhQYGBcUFxccISwkGx0pIBcXJTYlKS4wMzMzGyI5PjkxPSwyMzABCwsLEA4QHhISHjYqIiowMjIyMjIwNDIwMjIyOzIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMv/AABEIAOEA4QMBIgACEQEDEQH/xAAaAAEAAwEBAQAAAAAAAAAAAAAAAQIEAwUG/8QAORAAAgEDAQUECAUDBQEAAAAAAAECAxEhMQQFEkFhUYGS0RMiQlJxkaGiFTKCscFTcuEUI9Lw8ZP/xAAYAQEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EACwRAAIBAwIFAwQDAQEAAAAAAAABAhEhMQMSQVFhcZEEE1IUIqHRMoGxwWL/2gAMAwEAAhEDEQA/APvgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASQAASACASACASACASAAQTBX4unD/PmACASACASACASACASACASACAAAAAAAAADpSiuFN2d7fUoZNi2vihFO+OnYSk3g5PVeo09GnuOidefTkehXioy4el9ORFNJ62LyqceUZo1LSaf7FnB8DgXrlFrfKzN0KcXHito7W/kmjTjLiwlwq/bczwqJK138i9NpXd3noVaaOhet0mnSX5O1OMHJRss3z2YvoVlwr2U82+tuwiCV1K7x0LcCk73et9OtzJySOmOtpt2Zaps6Ttj5EQjByjHhWfpi/Ydame0pGmuJO7x0M5aqjk3g6kVVCF/Vi7fX6F6sIRf5V8l5HOtBN5bz0Jq9/yM/qIWv3ybKEmWjCHCpcMVxYasuvToVUYu/qxVrclz7imiWuOhaksO189CVrRdkaLTfHAUYrkvkvIhTjpwrn7KtrbWxnnV4W8P5Gae0tNOzxysVfqYpZubL08m7Y/o9CTjnEcL3V8tCZ8K9lfJeR420ba5LRruOM97znePDbDV+F9nxC9Vpt57GsfRaskrLrg92Li1fhXPkuTa7CvpI3Sssu35V5Hg7PvaeIKGFzcc6/E6V9rlGSkk21ySv9Dp05b6UL/RakZNNLpg96Uoq90sdF5EtxWeH7V5Hgy3hKcbuLX6TRT3hKWOFr9J0rSl+zN+i1ElVdz17xavwrnyXkZNoVmRs7m42SxnVdSa+vcUkqM5daDjXucyACpzgAAAAkAM5bHNejg1j/06nHduzxVKDtqsknPrbty2pOzy6cujNlbabq6xjt+pb/UJxj2pa9uFzOMkuf8A3U74TS5Zv8C9s1yckZaye2SX2UbvmteliaVdcLWNb3vpnQbNXV56ZWnzyHO35XzxhaX5l5ztmLtjsWveUaXg2T1GqWvddrdLlKNa1SOnPnrgivXzqte3Kydo1PVi+ds4X/eZNOreMnfKeMLQrQ1U5fytTBG2VcvTREyqf7dP4E0K7cmm8JYwte4R2iXFFN4bzhFKSsapvBTZ6n+3P+75aEbPW9d6aPHfc6VtoavZ83bC7S9erZ+q+S5LXJRxlRrmaRfFmVVfWjpquYrVE76eWDQp+rF3y73wVjO6lfNrWJpKtTRJYOMq1+xYXecY10nFYtnN/jg1OzaT0t9TlKCaWCNkqJdamicM35GPb9oVsNPPJ6a5NSrwsvXj4kV/08GpY5/wv8mWnsMJTaauradcGkYNSbZq46Uo7W39tXhcadTW6sfeXiR5dLalGsuKSirt3bstXbJt/C6Sd1BfN+Z51PZIzrKMo4zzfLi7H8DbTSda8jb0sdKk6NtUvZfi5o3rvCMUnGUZXkk7STsuGWcGzaNqiotqUZWjyknfB5W993UafA1C158OJS5xeqvnkbNt3bRhCUlC1ot3Td/3N1HTpBVeeSvfuW2aGzTo3dvgr3XU306nqLKKbT+buRyoziqacU1frf8Ac6V9TnnSrocGskm6czmQAVMAAAAAACThu2g/RxfE88ruyz8TQjhuxTdONmrZtjOrLI5ddJyjVN5xWvDk0aZUs6r6svCkrXbT+LZZU5c2/kVtK1uRom2qVVf6OOcNOM1Nxltpf+WbJVvfijp6FYyvhnBKhFq+mbWu+zUhU3pfL6Y/cKk1lt3+H01JrfIjBJRrB1Tvmy717WReMIu604erz0EYRvw6Xze7wV9A1e707F/kl0ZN5ljXEc/v0I5X7mlFR0i+mf3buQoJZtrjVvXoWVNK9/Wa53ecJ6X6keik0rPH9ucL4lfRSV0n1d45/cm7WTROKadHTjnPm50lTi7Y1y1d4yS1FpO3O1uJ8k2U9DJaSy1zjjuyR6JpKXFm/u40atr1HHJaLslR1/4dGo5VrcKb1eelyJRX5Vhy5ttrvV1+6KyoyfEpPpiPT4hwk2rtWy8Rfn1FLZNVPkn0LpRWbX1V+J8nYs4RWLXtb2peZxVOVrJq19XHOXftIqQlG7i0+28XyxjIo8V7GinYtKKbVrq99G+XQvGlFcu+7X7GdUqialeN88rrPS53cZ2/NH/5v/kJdGbb5UpUpOjf2mv1Hl7dGUZXg7Pt5nqWqdsfC/8AkZKsLtmmlW+DfR1nDkzwqlac7cU7tSTSabzlfydntFSUWpSurZ1PWp7HB5cVjN7dhoq7thbRfIu50s/8R0v1eKpdLY7HkbJOUrJu66No9KbK0tnUdFYtM5dStbnHram9lSCSDMwAAAAAALIpu2o1TS4Vjnxa6vs6lkcNk3pShDhcmmrp+q3zfYiUc+tVSX3Us+XTmb3UfYvF/gcTw7LxX/gz094U273dv7X2dlr8xU3lTwuO7WEuGXkaqzVF/pxyk9SM1LUsn/5VaXXk0ucnokuvEVnXeEo3fSV+85filKKzJp8/Uk/qlY4S3pSUlLi9W+vC/d7LXJS4UxXmHKVpqarKieLJ9OFKmpbTNKzpyk+3PkRDaZq94Sd7W1xrjTqZ/wAfoe/9svItHftH+p9svIjdWv257m60lFRXufxxjtc7wrzunwNLOMrv0LVpT1UcYvnXoclvmn732y8iY76pP2/o/Inc612P8kPSqmvcy68BV2yTvwwkn220+RVbe7KLpzurXfDhss99UlrNLufkVe/KP9VE7lSmx+WaqD3bvc/C/Yp7e4pqUJt3ve3Ky7Tvs1WTfFb1WsZStldpnnvui00qkXdPn0K7BvWiqaUpqMs4af72L03RclF5pxKJbZRhvslVf1bn1NUqsuJPhxfS6z/BbaXJrCt3r+DJU3tSUoJTTTeXZ4s106o7y3pQaxVi+lyGnHa9r/PMvF13Ldx6HaG0t+xb9SIe18vRvxKxl2TetKz46ii787+6uZTad50rx4Zpq6u1y9ZPzJ9r7tu3/S+nPdFOp6Hppe596KKi5NlPxGg9KkH3nFbygpx4pJK7z+mREFJJtRp5OmBonQaTXamvoaeJvl9UYdp3lTs+GopYd7fBo7veNPWM4t8kmVkpOjaNHV0sdpbOYa6szRT3hTcbOaTu8c/zPkZ9oleVzOdeJnKpzIJIMygAAAAABJnnsVKTbcFd68r/ACO5IIaTyjNHYaa0hbvfmR+H0teD7peZqBNWU9qHxXhGWW76T1h90vMq92UtOD75eZsA3PmPah8V4R5z3LQ9z75+ZK3NQ/p/fPzPQBKnJcSfbhyXgxLdVL3H45eZVboo+4/HLzN4Le7P5PyR7On8V4R58tz0XrF+OXmUe4qHuPxy8z0wPdn8n5C0oLEV4R5q3FQXsPxy8yXuai/Zl42eiAtbUWJPyyXpwfBeDAt00rWtLxsiO6KS9mXjZ6ALfUavzfkj2oLEV4R5890UnqpeNj8IpaWl42egB9TrfN+WW2xWEYIbppxd0pL9TLVN2QlrxeI2gh+o1Xfc/LL1ZgW6oJWvLxf4LR3ZFaOfiXkbQPf1Pk/JO+XMy0thjF3UpfNeRpXxuSQZuTllkNt5AAIIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//Z",
+      "categoryId":"2",
+      "authorId":"1"
+    },
+    {
+      "id": 4,
+      "name": "Rexus Legionare MX20 PRO",
+      "slug":"rex-legionpro",
+      "description" : "Full-sized keyboards never go old with time. Despite the rise in popularity of compact keyboards, full-sized keyboards are still favored by gamers and keyboard users in general who require a complete layout to make use of every key.Featuring a 104+ key layout, the Rexus Legionare MX20 mechanical keyboard boasts a conventonal keyboard design with four additional keys for multimedia. This keyboard offers a complete keyboard system.In addition, this keyboard also features Gateron switches known for its quality and durability. There are 4 switch options: Blue, Brown, Red, and Yellow. Every color offers its own unique characteristics.Rexus Legionare MX20 is also equipped with a running RGB LED surrounding the keyboard, which can be set in 1 of 6 available lighting modes. Tak hanya bagian samping, the RGB keys on this keyboard can also be set in 1 of 20 lighting modes.The Legionare MX20 keyboard is the perfect choice for those who complete to compete",
+      "price" :"500000",
+      "mainImg": "https://rexus.id/wp-content/uploads/2021/05/MX20P_09.jpg",
+      "categoryId":"2",
+      "authorId":"1"
+    },
+    {
+      "id": 5,
+      "name": "Rexus Webcam ALVA",
+      "slug":"rex-webcamALVA",
+      "description" : "Webcam became a crucial thing to have when communicating virtually. Not only for showing your face, but also giving a good impression when presenting yourself    Because of that, you need a high quality webcam with a good audio quality, fit dimension, and on top of all, the best image display. Rexus ALVA SW-RX02 Webcam is equipped with all of the needed feature on a webcam.One of the interesting feature that Rexus ALVA has is the ability to auto-focus, 3.1 MP CMOS camera with QXGA resolution, and LED ring light around the camera. Those feature complete Rexus ALVA as one of the most practical webcam that can be used by anyone and anywhere.Get your Rexus ALVA Webcam and show your fresh first impression when communicating.",
+      "price" :"650000",
+      "mainImg": "data:image/jpeg;base64,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",
+      "categoryId":"3",
+      "authorId":"1"
+    },
+    {
+      "id": 6,
+      "name": "Rexus Webcam SW-RX01",
+      "slug":"rex-webcamswrx01",
+      "description" : "HIGH RESOLUTION PICTURE Rexus Stream SW-RX01 comes with standard resolution size, 1280×720, which is used by a variety of quality laptop webcam and is also supported by a sensor to produce smooth and natural 30 FPS pictures.Integrated Microphone This webcam is equipped with integrated microphone, which is positioned directly in front of its user face or mouth, maximizing its ability to capture voice to produce quality and detailed sound.",
+      "price" :"550000",
+      "mainImg": "data:image/jpeg;base64,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",
+      "categoryId":"3",
+      "authorId":"1"
+    },
+    {
+      "id": 7,
+      "name": "Rexus Vonix F22",
+      "slug":"rex-vonixf22",
+      "description" : "Rexus Gaming Headset Vonix F22 is an advanced gaming headset created to fulfill the needs of gamer. Completed with detailed sound characteristics, mid level frequency range, sensitive microphone, and completed with sound imaging feature, helps Rexus Gaming Headset Thundervox HX20 in creating an immersive gaming experience for you.",
+      "price" :"150000",
+      "mainImg": "https://rexus.id/wp-content/uploads/2016/10/03-31.jpg",
+      "categoryId":"1",
+      "authorId":"1"
+    },
+    {
+      "id": 8,
+      "name": "Rexus Vonix RX995",
+      "slug":"rex-vonixrx995",
+      "description" : "Rexus Vonix RX995 is equipped with different function and specs speaker and microphone. Made especially for you who want a quality and great performance gaming headset, while also comes with relatively affordable price. With sensitivity of 95dB, it produces clear sound quality compared with other standard gaming headset. You can feel the sensation from the quality produced sound through this gaming headset and microphone which picks sound from every direction.",
+      "price" :"100000",
+      "mainImg": "https://rexus.id/wp-content/uploads/2016/10/03-21.jpg",
+      "categoryId":"1",
+      "authorId":"1"
+    },
+    {
+      "id": 9,
+      "name": "Rexus Battlefire K9D",
+      "slug":"rex-battlefire",
+      "description" : " is a semi mechanical keyboard with 104 keys. It comes with 3 colors of LED, green, red, and blue, which can be adjusted as needed and aluminum alloy looked. It is completed with the anti-ghost technology in 19 keys, making it the best partner for gamers and professionals.For gamers who do not have the pure mechanical gaming keyboard, Rexus introduces you to Rexus Gaming Keyboard Battlefire K9D as an alternative which comes with superior and innovative features to fulfill the needs of gamers.",
+      "price" :"160000",
+      "mainImg": "https://rexus.id/wp-content/uploads/2018/07/K9D_new_03.png",
+      "categoryId":"2",
+      "authorId":"1"
+    },
+    {
+      "id": 10,
+      "name": "Rexus Rexus Legionare MX10",
+      "slug":"rex-legionaremx10",
+      "description" : "The quality and characteristics of a gaming keyboard can be determined by the switch used. That is why, Rexus Legionare MX10 comes with high-quality switch with three types to choose from, Outemu Blue Switch, Red Switch, and Brown Switch. Each of the switches has different personality, to give you the choices of what you think best for your gaming styles and preferences.This gaming keyboard is also unique for its running LED RGB around it, not only for striking appearance, this LED also gives dynamic impression which can be adjusted by the user.It is the time to upgrade your performance by  Rexus Gaming Keyboard Legionare MX10!",
+      "price" :"450000",
+      "mainImg": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAREhUREhITFRUWFxcTFxcVER0YGBgZFRYXGBgeGRcaHSgjGiAlGxoYITIhJykrLi4uGB81ODMtNygtLisBCgoKDg0OGxAQGy0mICUtLi0yLS4yMi0tLTgtMi0rLS0tLS01MC8tLS8tLSstLy0vLS0tLS8tLS0tLS0tLS0tLf/AABEIAOEA4QMBIgACEQEDEQH/xAAcAAEAAQUBAQAAAAAAAAAAAAAABAIDBQYHAQj/xABHEAACAgEDAgMFAwUNBgcAAAABAgADEQQSIQUxEyJBBjJRYXEVgZEUI0KUwQcWF1NUc6GxstHS0/AzUnKCg8IkQ0RikpPh/8QAGQEBAAMBAQAAAAAAAAAAAAAAAAIDBAEF/8QAOxEAAgECAgYHBgQFBQAAAAAAAAERAiEDMQQSQVFhcSKBkaGx0fATFDKSweEjUnKCM0JiorIFFTTC8f/aAAwDAQACEQMRAD8A7jERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBETD+0/VH0tPjqFIWyoWbs8VvYquRj1AOeeOIBmIiIAiIgCIiAIiIAiIgCIiAIiIAiIgCYy7relRij31Kw7hrVB/AmSNZqtk4t7TatKeo3h22i33fKrbnQEDJYHAAf+mU1a9eLTh0OJTeU5OlJK63sNpUtvvcHW9R7S6ROTcp/wCFt39UiN7a6Id2cfVcftnzv0u62rVvUSwBZm25yCD2xyR6+k2HrNy1oljsVVbUJYDJHJ5APczVRhui2Jd/L3XLMPFwnTOq3+77PxZ2f9+mixnc2Pjt4/HM9/frosZ3Nj47ePxzPn72tsAurtB3VWV7dxI5KnPIB44+PxnvtNqgU09tdniJk1lsbfeX9JQeMHPf4D6SeI8LDcVUtc6ofeiHvejQmqVH683w6N+58Gd/X220J7OT9AD+2WD7e6D0dz/w1k/1ThHUtQPyKuyuwWbGQkbd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ZLn2PV/Gaz9eu/xzdvsVY+xVm2nFrSifr4ydX+m6Mv5X81XmaM/Q6T3fWfr9/wDmSj7EQe62pH11l/8AmTffsVY+xVk1pOItpdh6Jg4bmlPtb8Wc8t6ApIbdaWAIDNqLcgMQSA2/IBwOPkJbb2eUgglyCCCDqLiCDwQQX5GJ0b7FWefYgkve8WIldi8j0lpmKlCj5afI53+91fUvj+ft/wAc8/exUMkbgTjJFtnOO2fPzOjfYqx9irIV49ddqof7afIn7/j718tPkc3f2XQ92YgEHBezuOQR+c7iSqugVr+lb919o/75v/2Ks8+xVmTEwaK812W8IRTjaRi43xVPqbp/xg0Kn2d0yMzoLVZveZbnDNznzENk888z1ug0kg7tRkZwTqbcjPfB3+s3z7FWPsUSv3XDbm/a/M8/E0LBxHNcv91XmaGeg0nGW1Bwdw/8TbwR2I8/B5MqfodLKVd9Syngq2qsIP1BfE3n7EE9+xRL8Kn2fwt9bb8Spf6bo6yTX7qvM0Ov2foQBUfVoo7KmssVRnnsGxLh6On8drP163++bx9irH2Ks0LSMRZeC8iX+34DctP5qvM0CzoYLeILLd+0JvOosLbQSQN2/OMknHzMsv7OqWVmsuLLnaTc5K7sZwS3GcD8J0X7FWPsVZP3vF3rsp8j0cHEqwadWiI4pPvqTfeaLofY1LSoa63GQ3msZv7RM6fTWFVVHYAAfQDAkTSdOCTISrExaq3NRLF0jExY13lwS8Eu8RESspEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAP/Z",
+      "categoryId":"2",
+      "authorId":"1"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username":"admin",
+      "email": "admin@mail.com",
+      "password":"admin",
+      "role":"admin",
+      "phoneNumber":"088888888888",
+      "address":"Jalan Priok"
+    }
+  ],
+  "categories": [ 
+    {
+    "id":"1",
+    "name": "Headset Gaming"
+    },
+    {
+    "id":"2",
+    "name": "Keyboard Gaming"
+    },
+    {
+    "id":"3",
+    "name": "Web Camera"
+    }
+  ],
+  "images": [
+    {
+      "id":"1",
+      "productId":"1",
+      "imgUrl":"https://rexus.id/wp-content/uploads/2021/04/HX9_5.jpg"
+    },
+    {
+      "id":"2",
+      "productId":"2",
+      "imgUrl":"https://rexus.id/wp-content/uploads/2020/02/f30_02-1.jpg"
+    },
+    {
+      "id":"3",
+      "productId":"3",
+      "imgUrl":"https://lh3.googleusercontent.com/ghmNeyY0plNAw-Q3dhkA69kYiKECOr2TvPMq2lRJt498TLs9-OV87DRpkLYQv4ZZaaMl_-26B-zT4pv-83NQf9Qz2xnnP_IASJgVq3c4"
+    },
+    {
+      "id":"4",
+      "productId":"4",
+      "imgUrl":"https://lh3.googleusercontent.com/xKqrWC4Lm9oIXBThCsRfBWCnFDAPn3KC1uMONq4X9qq73V_zuPzxO3lF7qjuci5wedOx7nx7_udRw0qXqJpnIhmT39uCK0rHV8hMduHfbQ"
+    },
+    {
+      "id":"5",
+      "productId":"5",
+      "imgUrl":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRu1uYEpnYcPO6a_sRBd9MQ5Kob6vo3ftgQWb8tN8_1niopGAVP"
+    },
+    {
+      "id":"6",
+      "productId":"6",
+      "imgUrl":"https://rexus.id/wp-content/uploads/2020/06/webcam1.jpg"
+    },
+    {
+      "id":"7",
+      "productId":"7",
+      "imgUrl":"https://rexus.id/wp-content/uploads/2016/10/01-32.jpg"
+    },
+    {
+      "id":"8",
+      "productId":"8",
+      "imgUrl":"https://rexus.id/wp-content/uploads/2016/10/02-21.jpg"
+    },
+    {
+      "id":"9",
+      "productId":"9",
+      "imgUrl":"https://rexus.id/wp-content/uploads/2018/07/K9D_new_04.jpg"
+    },
+    {
+      "id":"10",
+      "productId":"10",
+      "imgUrl":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrjgoNbWBKdJ6UfmibVdDAoiQBzeVskTX15wbh5tC_eyNxU-0G"
+    }
+]
+}

@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "client-mobile",
+    "slug": "client-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

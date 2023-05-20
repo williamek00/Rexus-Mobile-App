@@ -1,0 +1,28 @@
+services:
+    services-app:
+        build: ./services/app
+        container_name: services-app
+        ports:
+            - "4002:4002"
+        environment:
+            NODE_ENV: production
+            PORT: 4002
+            DATABASE_URL: postgres://postgres:Swasembada01_@db.xmvjldlgrfdohbuvsnsw.supabase.co:6543/postgres    
+    services-user:
+        build: ./services/users
+        container_name: services-user
+        ports:
+            - "4001:4001"
+        environment:
+            NODE_ENV: production
+            PORT: 4001
+            MONGO_CONNECTION: mongodb+srv://williamenosk123:Swasembada01_@cluster0.fsmfgyx.mongodb.net/?retryWrites=true&w=majority
+            DATABASE_NAME: db
+    orchestrator:
+        build: ./orchestrator
+        container_name: orchestrator
+        ports:
+            - "80:80"
+        environment:
+            BASE_URL_USER: http://services-user:4001/
+            BASE_URL_APP: http://services-app:4002/
